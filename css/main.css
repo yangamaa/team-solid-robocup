@@ -1,0 +1,40 @@
+@media (max-width: 1920px) {
+.victor {
+    height: 200px;
+    width: 100%;
+}
+
+.yan {
+    height: 200px;
+    width: 100%;
+}
+}
+
+/* Tablet */
+@media (max-width: 992px) {
+
+.victor{
+    height: 180px;
+        width: 100%;
+}
+
+.yan {
+    height: 180px;
+        width: 100%;
+}
+
+}
+/* Celular */
+@media (max-width: 600px) {
+
+.victor{
+    height: 120px;
+    width: 100%;
+}
+
+.yan {
+    height: 120px;
+    width: 100%;
+}
+
+}
